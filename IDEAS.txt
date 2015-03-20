@@ -7,7 +7,7 @@ Please enter your name, a brief description of what you're proposing and why you
 count these to decide the winner. The person with the best idea will host the meet! 
 *****************************************************************************************************************************
 
-Arjan
+*Arjan*
 Task: Estimate the number of rabbits in a population after 10 years
 --a newly born pair of rabbits, one male, one female, build the initial population
 --at the end of its second month a female can bring forth another pair of rabbits - and each month thereafter
@@ -16,7 +16,7 @@ Task: Estimate the number of rabbits in a population after 10 years
 Why? this is a simple concept: can we translate it into code? 
 -----------------------------------------------------------------------------------------------------------------------------
 
-Scott
+*Scott*
 Task: Rise of the MACHINES -- Study a population of terminators over time.
 **Scenario 1** (a bit easier)
 -- Terminators are created by SKYNET at rate a
@@ -36,7 +36,7 @@ study a multitude of problems in areas such as cancer growth and magnetohydrodyn
 already encountered it, e.g., logistic regression!).
 -----------------------------------------------------------------------------------------------------------------------------
 
-Suzanne
+*Suzanne*
 My suggestion is waaay more boring than rise of the machines! :D I’m 
 personally keen to practice more data manipulation. I’m not suggesting 
 we do this exact thing, but if people are keen I can come up with 
