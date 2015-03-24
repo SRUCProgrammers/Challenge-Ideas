@@ -1,4 +1,5 @@
 Challenge-Week-1 (*ARJAN*)
+--------------------------
 For our first week we're gonna be doing some basic data file manipulation! 
 I've provided a data file with three columns of values, which we're gonna pretend are sugar concentrations in apples,
 oranges and a control. Unfortunately your equipment is a bit dodgy and you're gonna have to do some data cleaning before
@@ -15,6 +16,7 @@ Draw a histogram (or series of histograms) of your data. What's the best way to 
 
 =============================================================================================================================
 Challenge-Week-2 (*ALEX*)
+-------------------------
 You have 200(ish) cows of varying ages, with data on sex, date of birth, and 2 
 traits. You want to find out whether there has been phenotypic progress in your trait(s) 
 of interest over time. Your data has dates of birth in it, but you only need Year of
@@ -29,6 +31,7 @@ beginning of a genetic analysis? Its also something that could maybe be extended
 
 =============================================================================================================================
 Challenge-Week-3 (*TOMASZ*)
+---------------------------
 One of the main challenges of using genotypes for genomic evaluations is to ensure data quality and validating that genotypes
 belong to the right animals. When an animal and its offspring are genotyped we can do parentage verification. When we get
 negative result we need to run parentage discovery. This is very computationally demanding for large datasets. There are 108
